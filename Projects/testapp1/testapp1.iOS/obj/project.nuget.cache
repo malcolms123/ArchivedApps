@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L5bWYc46Jq+3vHloYns8mIAK3QPwYmFPsxPUciZETwqJPNJNJFZMdlPlAcYIitu1mRq6MoYwATvPULVAfthaqw==",
+  "success": true,
+  "projectFilePath": "/Users/malcolmsturgis/Projects/testapp1/testapp1.iOS/testapp1.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/malcolmsturgis/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/malcolmsturgis/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}
