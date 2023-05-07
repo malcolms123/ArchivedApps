@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "278913071520",
+    "project_id": "friendscape-5a897",
+    "storage_bucket": "friendscape-5a897.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278913071520:android:8ba151a5b4a801069f4cc5",
+        "android_client_info": {
+          "package_name": "com.owltechnologieslimitedliabilitycompany.friendscape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278913071520-sli1vpaq7aenq6dla6s2q4d64bs4en4k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChIwGq7zkIwcOf3pxpqI54Bk7iEbliWag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278913071520-sli1vpaq7aenq6dla6s2q4d64bs4en4k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "278913071520-goq2reojsc5m3aoda7f1tr78878bhmi5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.owltechnologieslimitedliabilitycompany.friendscape"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
